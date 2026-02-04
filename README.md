@@ -28,3 +28,7 @@ Dashboard para analisar **custos de frete** e operação logística, com visão 
 
 ## Ferramentas
 Power BI (modelagem + DAX) • Power Query • Excel/SQL (quando aplicável)
+
+## Preview
+![](images/preview-1.png)
+![](images/preview-2.png)
